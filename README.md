@@ -9,9 +9,11 @@ Ducky Script is a simple scripting language for automating keypresses. It was or
 
 This guide gives an concise overview of Ducky Script. For more information, [see this page](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript).
 
+Official documentation of Ducky Script, [see this page](https://docs.hak5.org/usb-rubber-ducky-1/the-ducky-script-language/ducky-script-quick-reference)
+
 ## Examples
 
-duckyScript is very easy and straightforward to write, you basically just tell it what key to press!
+Ducky Script is very easy and straightforward to write, you basically just tell it what key to press!
 
 Let's take a look at some examples first:
 
