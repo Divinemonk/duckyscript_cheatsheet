@@ -64,27 +64,7 @@ CONTROL w
 
 [REPEAT](#REPEAT)
 
-[Special Keys](#Special-Keys)
-
-[Mouse Buttons](#Mouse-Buttons)
-
-[MOUSE_MOVE](#MOUSE_MOVE-X-Y)
-
-[MOUSE_WHEEL](#MOUSE_WHEEL-X)
-
-[KEYDOWN / KEYUP](#KEYDOWN--KEYUP)
-
-[SWCOLOR](#SWCOLOR)
-
-[DP_SLEEP](#DP_SLEEP)
-
-[PREV_PROFILE / NEXT_PROFILE](#PREV_PROFILE--NEXT_PROFILE)
-
-[GOTO_PROFILE](#GOTO_PROFILE)
-
-[HOLD](#HOLD-experimental)
-
-[LOOP](#LOOP-experimental)
+[Special Keys](#Special-Keys
 
 -----
 
